@@ -24,6 +24,14 @@ You use git clone to be able to download the documents in the GitHub
 ## Installation Requirements
 Git
 
+# Project setup
+- Open your github and search for JBcollo1 week 2 code challenge
+- Fork the  repository
+- Copy the SSH key
+- Open terminal or command prompt
+- Navigate to your desired directory where you want to store this project
+- Run `git clone` and paste the SSH key
+
 ### Installation instruction
 ```
 Git clone git@github.com:JBcollo1/WK2-code-challenge.git
